@@ -32,16 +32,16 @@ Make sure you have Node.js and npm (or Yarn) installed on your machine.
 
 2. Install the dependencies:
 
-  ```bash
-  npm install
-  # or
-  yarn install
-  ```
+   ```bash
+   npm install
+   # or
+   yarn install
+   ```
 
 3. Start the development server:
 
-  ```bash
-  npm run dev
-  # or
-  yarn dev
-  ```
+   ```bash
+   npm run dev
+   # or
+   yarn dev
+   ```
